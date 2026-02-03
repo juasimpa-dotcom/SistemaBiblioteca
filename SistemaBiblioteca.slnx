@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SistemaBiblioteca.AccesoDatos/SistemaBiblioteca.AccesoDatos.csproj" />
+  <Project Path="SistemaBiblioteca.Entidades/SistemaBiblioteca.Entidades.csproj" />
+  <Project Path="SistemaBiblioteca.LogicaNegocio/SistemaBiblioteca.LogicaNegocio.csproj" />
+  <Project Path="SistemaBiblioteca.Presentacion/SistemaBiblioteca.Presentacion.csproj" />
+</Solution>
